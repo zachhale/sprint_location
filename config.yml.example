@@ -1,0 +1,5 @@
+sprint:
+  key: yourkey
+  secret: yoursecret
+  phone: yourphone
+  mac: yourmac
